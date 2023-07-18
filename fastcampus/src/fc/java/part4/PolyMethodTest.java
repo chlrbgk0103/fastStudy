@@ -4,10 +4,7 @@ package fc.java.part4;
 // 다형성 인수
 
 public class PolyMethodTest {
-	
-	
-	
-	
+
 	public static void main(String[] args) {
 		
 		Dog dog = new Dog();

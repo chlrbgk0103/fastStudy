@@ -21,5 +21,5 @@ public class OverrideTest {
 	// 동적바인딩
 	// Quiz 5. 상속관계에서 하위클래스가 상위클래스의 동작을 변경이나 추가하는 것을 무엇이라고 하는가?
 	// Override (재정의)
-	
+	 
 }
