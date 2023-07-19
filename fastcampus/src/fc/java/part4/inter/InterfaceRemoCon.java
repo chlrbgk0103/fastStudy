@@ -1,7 +1,6 @@
 package fc.java.part4.inter;
 
 public interface InterfaceRemoCon {
-	
 	/*
 	public int MAXCH = 99;
 	public int MINCH = 1;
@@ -27,5 +26,4 @@ public interface InterfaceRemoCon {
 	
 // internet 추상메서드로 변환
 		public abstract void internet();
-	
 }

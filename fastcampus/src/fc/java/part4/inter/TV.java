@@ -47,3 +47,24 @@ public class TV implements InterfaceRemoCon{
 	}
 	
 }
+
+	// Quiz 1. 서로 비슷한 클래스의 공통부분을 묶을 때 사용하는 클래스를 무엇이라고 하는가 ? [X]
+	// -> 추상클래스 
+	// Quiz 2. 서로 다른 클래스의 공통부분을 묶을때 사용하는 클래스를 무엇이라고 하는가? [X]
+	// -> 인터페이스
+	// Quiz 3. 인터페이스가 가질 수있는 멤버 2가지를 쓰세요. [X]
+	// -> 추상메서드, final static 상수
+	// Quiz 4. 다형성을 보장하기 위해서 등장된 클래스 2가지를 쓰세요. [X]
+	// -> 인터페이스, 추상클래스
+	// Quiz 5. Dog클래스는 Animal클래스를 상속받고 Pet 인터페이스를 구현했다와 같은 코드를 작성하시오. [O]
+	/*
+	 *  public class Dog extends Animal implements Pet{
+	 *	
+	 *	}
+	 *
+	 */
+
+
+
+
+

@@ -10,7 +10,6 @@ public class Radio implements InterfaceRemoCon{
 	@Override
 	public void chDown() {
 		System.out.println("라디오 채녈이 내려간다.");		
-		
 	}
 
 	@Override
